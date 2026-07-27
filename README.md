@@ -25,7 +25,7 @@ monthly_diff_bar: this shows, using a bar chart, the monthly percentage differen
 seasonal_diff_bar: this shows, using bar chart, the seasonal percentage difference from the annual average across multiple years. This was the most useful in observing the seasonal change in stock price and whether the phrase had measurable evidence.
 
 Results -
-![Seasonal Percentage Difference Chart](images/seasonal_perc_diff.png)
+![Seasonal Percentage Difference Chart](seasonal_perc_diff.png)
 As shown in the bar chart (using seasonal_diff), stock price increases in the May-October period and decrease in the November-April period, which is the opposite of the proposed "Sell in May" statement. The chart does not show that the May-October period has consistently little stock price growth, in fact the opposite is displayed.
 
 Limitations-
